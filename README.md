@@ -1,6 +1,6 @@
 # Dharu
-1=input()
-if(1>="a" and 1<="z") or (1>="A" or 1<="Z"):
+I=input()
+if(I>="a" and I<="z") or (I>="A" or I<="Z"):
   print("Alphabet")
 else:
   print("No")
